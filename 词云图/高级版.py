@@ -55,7 +55,7 @@ gen_stylecloud(
     palette='cartocolors.qualitative.Bold_5'  # 设置配色方案
 )
 
-""" 
+""" gen_stylecloud的使用方法
 gen_stylecloud(text=None,            #输入字体
                    file_path=None,   # 输入文本/CSV 的文件路径
                    gradient=None,    #渐变方向（梯度方向），默认是horizontal
